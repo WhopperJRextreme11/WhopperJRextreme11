@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhopperJRextreme11
 - 👀 I’m interested in cybersecurity, programming, biking, art, robotics, and video games!
 - 🌱 I’m currently learning java, python, and javascript 
-- 💞️ I’m looking to collaborate on AI projects, pentesting tools, and robotics projects 
+- 💞️ I’m looking to collaborate on AI projects, pentesting tools,robotics projects, and video games!
 - 📫 My discord is .epiccloud and my instagram is roboticsnerd123
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a highschooler!
