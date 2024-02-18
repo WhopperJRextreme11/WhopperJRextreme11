@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhopperJRextreme11
+- 👋 Hi, I’m Sal :)
 - 👀 I’m interested in cybersecurity, programming, biking, art, robotics, and video games!
 - 🌱 I’m currently learning java, python, and javascript 
 - 💞️ I’m looking to collaborate on AI projects, pentesting tools,robotics projects, and video games!
